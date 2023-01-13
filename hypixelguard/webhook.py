@@ -38,9 +38,6 @@ from .hypixel import StatusABC
 
 __all__ = (
     "MessageABC",
-    "POSITIVE",
-    "NEGATIVE",
-    "PASSIVE",
     "send_message",
 )
 
